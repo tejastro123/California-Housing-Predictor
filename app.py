@@ -472,4 +472,4 @@ with gr.Blocks(title="California Housing Price Predictor", css=custom_css, theme
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 7860))
-    demo.launch(server_name="0.0.0.0", server_port=port, share=False)
+    demo.launch(server_name="localhost", server_port=port, share=False)
