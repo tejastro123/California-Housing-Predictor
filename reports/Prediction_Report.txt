@@ -1,0 +1,100 @@
+
+
+============================================================
+          California Housing Prediction Report
+============================================================
+
+Prediction
+----------
+
+Predicted Price
+    $441,469.81
+
+Category
+    Premium
+
+Luxury Score
+    86/100
+
+Premium House
+    YES
+
+Prediction Interval (95%)
+
+    $441,469.81
+        -
+    $441,469.81
+
+Model Statistics
+----------------
+
+Standard Deviation
+
+    0.00
+
+Location
+--------
+
+Latitude
+
+    37.88
+
+Longitude
+
+    -122.23
+
+House Information
+-----------------
+
+Median Income
+
+    8.32
+
+Rooms
+
+    880.0
+
+Bedrooms
+
+    129.0
+
+Population
+
+    322.0
+
+Households
+
+    126.0
+
+Ocean Proximity
+
+    NEAR BAY
+
+Engineered Features
+-------------------
+
+Rooms / Household
+
+    6.984
+
+Bedrooms / Room
+
+    0.147
+
+Population Density
+
+    2.556
+
+Cost / Room
+
+    $501.67
+
+Price Gauge
+
+    ██████████████------
+
+Generated
+
+    2026-08-05 10:51:13.079338
+
+============================================================

@@ -1,0 +1,2 @@
+longitude,latitude,housing_median_age,total_rooms,total_bedrooms,population,households,median_income,ocean_proximity,cost_per_room,rooms_per_household,bedrooms_per_room,population_density,income,Prediction,Category,Luxury Score,Premium House
+-122.23,37.88,41,880.0,129.0,322.0,126.0,8.32,NEAR BAY,501.6702414772727,6.984126928697405,0.14659090892432852,2.5555555352733688,8.32,441469.8125,Premium,86,True

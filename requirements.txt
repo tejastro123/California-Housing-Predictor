@@ -1,0 +1,59 @@
+# ==========================================================
+# California Housing Price Predictor
+# Requirements
+# ==========================================================
+
+# Core Data Science
+numpy
+pandas
+scikit-learn
+xgboost
+
+# Model Serialization
+joblib
+
+# Visualization
+folium
+branca
+
+# Scientific Computing
+scipy
+
+# PDF Report Generation
+reportlab
+
+# Plotting
+matplotlib
+
+# Optional Interactive Plots
+plotly
+
+# Image Processing (for PDF map embedding)
+Pillow
+
+# Progress Bars
+tqdm
+
+# Configuration Files
+PyYAML
+
+# Logging (optional rich console)
+rich
+
+# Development
+ipython
+jupyter
+notebook
+
+# Testing
+pytest
+
+# Code Formatting
+black
+isort
+
+# Linting
+flake8
+
+# Gradio Web Interface
+gradio

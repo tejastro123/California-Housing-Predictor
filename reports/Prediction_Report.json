@@ -1,0 +1,67 @@
+{
+    "prediction": 441469.8125,
+    "formatted_price": "$441,469.81",
+    "category": "Premium",
+    "premium_house": true,
+    "luxury_score": 86,
+    "analytics": {
+        "cost_per_room": 501.6702414772727,
+        "rooms_per_household": 6.984126928697405,
+        "bedrooms_per_room": 0.14659090892432852,
+        "population_density": 2.5555555352733688,
+        "income": 8.32
+    },
+    "prediction_interval": {
+        "mean": "441469.8",
+        "lower": "441469.8",
+        "upper": "441469.8",
+        "std": 0.0
+    },
+    "summary": {
+        "prediction": 441469.8125,
+        "prediction_formatted": "$441,469.81",
+        "category": "Premium",
+        "luxury_score": 86,
+        "premium_house": true,
+        "prediction_interval": [
+            "$441,469.81",
+            "$441,469.81"
+        ],
+        "standard_deviation": 0.0,
+        "timestamp": "2026-08-05 10:51:12"
+    },
+    "features": {
+        "longitude": -122.23,
+        "latitude": 37.88,
+        "housing_median_age": "41",
+        "total_rooms": 880.0,
+        "total_bedrooms": 129.0,
+        "population": 322.0,
+        "households": 126.0,
+        "median_income": 8.32,
+        "rooms_per_household": 6.9841,
+        "bedrooms_per_room": 0.1466,
+        "population_per_household": 2.5556,
+        "rooms_per_person": 2.7329,
+        "bedrooms_per_household": 1.0238,
+        "income_per_household": 0.066,
+        "age_income_interaction": 341.12,
+        "geo_balance": 160.11,
+        "ocean_proximity_encoded_0": "0",
+        "ocean_proximity_encoded_1": "0",
+        "ocean_proximity_encoded_2": "0",
+        "ocean_proximity_encoded_3": "0",
+        "ocean_proximity_encoded_4": "0"
+    },
+    "input": {
+        "longitude": -122.23,
+        "latitude": 37.88,
+        "housing_median_age": 41,
+        "total_rooms": 880.0,
+        "total_bedrooms": 129.0,
+        "population": 322.0,
+        "households": 126.0,
+        "median_income": 8.32,
+        "ocean_proximity": "NEAR BAY"
+    }
+}
